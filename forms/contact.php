@@ -27,8 +27,8 @@
 
   $contact->smtp = array(
     'host' => 'smtp.yandex.ru',
-    'username' => 'Smtp mail',
-    'password' => 'biixzhkzfxejsgwl',
+    'username' => '******',
+    'password' => '******',
     'port' => '465'
   );
 
